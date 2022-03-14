@@ -1,0 +1,8 @@
+name: Lumberjack
+version: '1.0-SNAPSHOT'
+main: pt.dioguin.lumberjack.Main
+api-version: 1.18
+authors: [ yDioguin ]
+website: https://diogolima.netlify.app
+commands:
+  lumberjack:

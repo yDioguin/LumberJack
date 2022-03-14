@@ -1,0 +1,20 @@
+No Permission: "&cYou don't have permission"
+NPC Created: "&aNPC created"
+Reload Config: "&aConfig reloaded"
+
+NPC:
+  Name: "&6Lumberjack"
+  Skin: "yDioguin"
+
+LumberJack:
+  ActionBarMessage: "&aLevel -> {level}:XP -> {xp}/{xpNecessary}"
+  Message: "&eYou've evolved to level {level}!"
+  SkillAlreadActive: "&eThe ability is already active."
+  ActiveSkill: "&eThe ability was active!"
+  xpMultiplierInitial: 1000.0
+  xpMultiplierPerLevel: 100.0
+  xpPerBlock: 20.0
+  cooldownInitial: 60
+  cooldownPerLevel: 1
+  levelMax: 100
+  Radius: 5
